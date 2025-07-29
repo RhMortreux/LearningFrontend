@@ -1,2 +1,2 @@
 # LearningFrontend
-plateforme de formation en ligne
+plateforme de formation en ligne frontend
